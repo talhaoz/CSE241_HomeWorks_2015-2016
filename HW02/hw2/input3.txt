@@ -1,0 +1,5 @@
+ Mov   R1  , -20        ;dasdsaıdasdnaskl
+Add r1,2
+jmp r1,5
+jpn r1,2
+HLT          ;dföasfa

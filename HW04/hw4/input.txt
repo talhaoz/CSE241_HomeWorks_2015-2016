@@ -1,0 +1,6 @@
+ Mov R1	,  10   ;dasdsaıdasdnaskl
+prn r1
+sub r1,1 ;dasdnasıjdasnfıqnf
+JMP r1, 6
+jmp 2 ;sadmşasıfjqwpı qı
+HLT ;dföasfa

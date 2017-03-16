@@ -1,0 +1,7 @@
+ Mov   R1  , 50        ;dasdsaıdasdnaskl
+mov r1,#1
+mov #2,100
+Add r1,#2
+mov r1,r2
+sub r2,100
+HLT          ;dföasfa

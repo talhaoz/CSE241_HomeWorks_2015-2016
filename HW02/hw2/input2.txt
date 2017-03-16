@@ -1,0 +1,506 @@
+ Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa
+ Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa Mov R1	,  10   ;dasdsaıdasdnaskl
+mov r1, #5
+add r1,#5 ;dasdnasıjdasnfıqnf
+HLT ;dföasfa
